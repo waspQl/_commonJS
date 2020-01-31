@@ -1,1 +1,1 @@
-# githubActionsNodeCommonJS
+# CommonJS
