@@ -1,0 +1,16 @@
+{
+  "name": "githubactionsnodecommonjs",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo \"no build specified\"",
+    "lint": "eslint .",
+    "test": "echo \"no test specified\""
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "6.8.0"
+  }
+}
