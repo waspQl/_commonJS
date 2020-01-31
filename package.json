@@ -4,7 +4,6 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "echo \"no build specified\"",
     "lint": "eslint .",
     "test": "if test $(node src/app.js) = \"dave\"; then echo yes; else echo \"Error: no test specified\" && exit 1; fi"
   },
